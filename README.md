@@ -19,12 +19,3 @@ This is a simple console-based digital clock written in C++. It displays the cur
   - Windows (with `cls` command support)
   - Linux/macOS (with `clear` command)
 
----
-
-### How to Compile and Run
-
-#### On Linux/macOS (G++)
-
-```bash
-g++ -o clock clock.cpp
-./clock
